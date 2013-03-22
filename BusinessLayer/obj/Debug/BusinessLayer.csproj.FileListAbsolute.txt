@@ -1,0 +1,4 @@
+E:\Projects\Swathi\Clothes671\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Projects\Swathi\Clothes671\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Projects\Swathi\Clothes671\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Projects\Swathi\Clothes671\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,19 @@
+E:\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\bin\Clothes671.dll
+E:\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\bin\Clothes671.pdb
+E:\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\obj\Debug\ResolveAssemblyReference.cache
+E:\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\obj\Debug\Clothes671.dll
+E:\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\obj\Debug\Clothes671.pdb
+E:\Box.com Folder\My Box Files\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\bin\Clothes671.dll
+E:\Box.com Folder\My Box Files\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\bin\Clothes671.pdb
+E:\Box.com Folder\My Box Files\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\obj\Debug\Clothes671.csprojResolveAssemblyReference.cache
+E:\Box.com Folder\My Box Files\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\obj\Debug\Clothes671.dll
+E:\Box.com Folder\My Box Files\Swathi\Fall 2011\CSC 671\Clothes Web Site\Clothes671\Clothes671\obj\Debug\Clothes671.pdb
+E:\Projects\Swathi\Clothes671\Clothes671\bin\Clothes671.dll
+E:\Projects\Swathi\Clothes671\Clothes671\bin\Clothes671.pdb
+E:\Projects\Swathi\Clothes671\Clothes671\obj\Debug\Clothes671.dll
+E:\Projects\Swathi\Clothes671\Clothes671\obj\Debug\Clothes671.pdb
+E:\Projects\Swathi\Clothes671\Clothes671\obj\Debug\Clothes671.csprojResolveAssemblyReference.cache
+E:\Projects\Swathi\Clothes671\Clothes671\bin\BusinessLayer.dll
+E:\Projects\Swathi\Clothes671\Clothes671\bin\BusinessLayer.pdb
+E:\Projects\Swathi\Clothes671\Clothes671\bin\Clothes671.DAL.dll
+E:\Projects\Swathi\Clothes671\Clothes671\bin\Clothes671.DAL.pdb

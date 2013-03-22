@@ -1,0 +1,7 @@
+E:\Projects\Swathi\Clothes671\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Projects\Swathi\Clothes671\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Projects\Swathi\Clothes671\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Projects\Swathi\Clothes671\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Projects\Swathi\Clothes671\BusinessLayer\obj\Debug\Clothes671.BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Projects\Swathi\Clothes671\BusinessLayer\bin\Debug\Clothes671.DAL.dll
+E:\Projects\Swathi\Clothes671\BusinessLayer\bin\Debug\Clothes671.DAL.pdb

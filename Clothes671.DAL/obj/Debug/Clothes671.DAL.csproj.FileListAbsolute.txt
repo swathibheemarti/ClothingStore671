@@ -1,0 +1,4 @@
+E:\Projects\Swathi\Clothes671\Clothes671.DAL\bin\Debug\Clothes671.DAL.dll
+E:\Projects\Swathi\Clothes671\Clothes671.DAL\bin\Debug\Clothes671.DAL.pdb
+E:\Projects\Swathi\Clothes671\Clothes671.DAL\obj\Debug\Clothes671.DAL.dll
+E:\Projects\Swathi\Clothes671\Clothes671.DAL\obj\Debug\Clothes671.DAL.pdb

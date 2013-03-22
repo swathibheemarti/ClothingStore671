@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Clothes671.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        Swathis Ecommerce --
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server"></asp:ContentPlaceHolder>
+    </title>
+    <link href="Styles/Site.css" rel="Stylesheet" type="text/css" />
+    <style type="text/css">
+        .style1
+        {
+            width: 789px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="tittle">
+                <table>
+                    <tr>
+                        <td><%--Put Image here--%></td>
+                        <td>&nbsp;&nbsp;&nbsp;</td>
+                        <td class="style1">
+                            <h1>CSC 671 Clothes Store App</h1>
+                        </td>
+                        <td align="right">
+                            <br />
+                            [<a href="#" style="font-size:small; color:White">Login</a>]
+                            &nbsp;|&nbsp;            
+                            [<a href="#" style="font-size:small; color:White">Logout</a>]
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
